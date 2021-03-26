@@ -1,0 +1,19 @@
+{
+  "name": "pkgtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyn-github/pkgtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyn-github/pkgtest/issues"
+  },
+  "homepage": "https://github.com/zyn-github/pkgtest#readme"
+}
